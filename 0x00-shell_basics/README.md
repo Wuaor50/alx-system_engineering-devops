@@ -6,4 +6,4 @@ cd /: Change dir to Home Dir
 ls -l: long listing
 ls -al: long listing including hidden file
 ls -na:   Long format   with user and group IDs displayed numerically    And hidden files (starting with .)
-
+mkdir -p dir1/dir2: Make create dir1 in dir2
